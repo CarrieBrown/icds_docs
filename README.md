@@ -1,9 +1,10 @@
-ICDS User Guide
+
+Roar User Guide
 ===============
 
-This is a GitHub repo for the [ICDS User Guide](https://www.icds.psu.edu/computing-services/roar-user-guide/) in Markdown format.
 
-Hosted by readthedocs and rendered using Mkdocs
+This is a GitHub repo for the [Roar User Guide] in Markdown format.
+
 
 Important links:
 
@@ -16,7 +17,11 @@ Converters:
 - [HTML -> Markdown](https://www.browserling.com/tools/html-to-markdown)
 - [HTML table -> Markdown](https://jmalarcon.github.io/markdowntables/)
 
+[//]:<> (Admonition options: https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
 
+<<<<<<< HEAD
 Documentation versions available:
 - original - current ICDS Docs
 - latest - Modified ICDS Docs
+=======
+>>>>>>> bdc996391fde7b9201722e2758e3c8918ce73122

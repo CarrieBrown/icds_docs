@@ -1,5 +1,4 @@
-# .readthedocs.yaml
-# Read the Docs configuration file
+# Read the Docs configuration file for MkDocs projects
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
 # Required
@@ -7,9 +6,9 @@ version: 2
 
 # Set the version of Python and other tools you might need
 build:
-  os: ubuntu-20.04
+  os: ubuntu-22.04
   tools:
-    python: "3.9"
+    python: "3.12"
 
 mkdocs:
   configuration: mkdocs.yml
@@ -18,4 +17,7 @@ mkdocs:
 python:
    install:
    - requirements: requirements.txt
+<<<<<<< HEAD
 
+=======
+>>>>>>> bdc996391fde7b9201722e2758e3c8918ce73122

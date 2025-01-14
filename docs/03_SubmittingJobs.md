@@ -122,7 +122,11 @@ The Roar Portals are simple graphical web interfaces that provide users with acc
 Users can submit and monitor jobs, manage files, and run applications using just a web browser. 
 To access the Roar Portals, users must log in using valid Penn State access account credentials and must also have an account on Roar. 
 
+<<<<<<< HEAD
 The [RC Portal](https://rcportal.hpc.psu.edu) is available at the following webpage: [https://rcportal.hpc.psu.edu](https://rcportal.hpc.psu.edu)
+=======
+The [RC Portal](https://portal.hpc.psu.edu) is available at the following webpage: [https://portal.hpc.psu.edu](https://portal.hpc.psu.edu)
+>>>>>>> bdc996391fde7b9201722e2758e3c8918ce73122
 
 The [RR Portal](https://rrportal.hpc.psu.edu) is available at the following webpage: [https://rrportal.hpc.psu.edu](https://rrportal.hpc.psu.edu)
 
