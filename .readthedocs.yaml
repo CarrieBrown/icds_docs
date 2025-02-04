@@ -17,7 +17,3 @@ mkdocs:
 python:
    install:
    - requirements: requirements.txt
-<<<<<<< HEAD
-
-=======
->>>>>>> bdc996391fde7b9201722e2758e3c8918ce73122
